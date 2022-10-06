@@ -1,0 +1,15 @@
+.background{
+  background-color: blueviolet !important;
+}
+*{
+  margin:0;
+  padding:0;
+  text-decoration: none;
+}
+.btn{
+  outline: none;
+  border: none;
+}
+.p{
+  text-align: justify;
+}
